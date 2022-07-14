@@ -2,7 +2,7 @@
 
 A Discord bot that allows you to buy and sell stocks using chat commands.
 
-![screenshot](https://github.com/dsnsgithub/stockTrader/blob/main/Capture.PNG?raw=true)
+![screenshot](https://github.com/dsnsgithub/stockTrader/blob/master/Capture.PNG?raw=true)
 
 ## How To Install
 
